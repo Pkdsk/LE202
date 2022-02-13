@@ -5,11 +5,11 @@
 3. เปิด command prompt หรือ cmd รันคำสั่ง Git clone ด้านล่าง
           
         git clone https://github.com/choompol-boonmee/iotset1.git
-3. ทำการติดตั้ง [Phython](https://www.python.org/downloads/) โดยทำการติดตั้งตาม Version ของคอมพิวเตอร์
+3. ทำการติดตั้ง [Python](https://www.python.org/downloads/) โดยทำการติดตั้งตาม Version ของคอมพิวเตอร์
     * 32 - bit
     * 64 - bit
 4. เปิด command prompt หรือ cmd ทำการรันคำสั่งต่อไปนี้ตามลำดับ
-    * pip  เพื่อเป็นการตรวจสอบว่าโปรแกรม Phython พร้อมใช้งาน
+    * pip  เพื่อเป็นการตรวจสอบว่าโปรแกรม Python พร้อมใช้งาน
     * pip -U platformio เพื่อทำการติดตั้ง Platformio
 6. ทำการติดตั้ง [Nodejs](https://nodejs.org/en/download/)
 7. เปิด command prompt หรือ cmd เข้าไปโฟลเดอร์ iotset1 ทำการรันคำสั่งต่อไปนี้ตามลำดับ
