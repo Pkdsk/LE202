@@ -5,7 +5,7 @@
 3. เปิด command prompt หรือ cmd รันคำสั่ง Git clone ด้านล่าง
           
         git clone https://github.com/choompol-boonmee/iotset1.git
-3. ทำการติดตั้ง [Phython](https://www.python.org/downloads/windows/) โดยทำการติดตั้งตาม Version ของคอมพิวเตอร์
+3. ทำการติดตั้ง [Phython](https://www.python.org/downloads/) โดยทำการติดตั้งตาม Version ของคอมพิวเตอร์
     * 32 - bit
     * 64 - bit
 4. เปิด command prompt หรือ cmd ทำการรันคำสั่งต่อไปนี้ตามลำดับ
