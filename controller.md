@@ -67,25 +67,25 @@ controller
 * SPDIF x1
 * SAI x3
 * MQS x1
-• eMMC 4.5/SD 3.0 x2
-• SPI x4
-• Ethernet
-• UART x8
-• I2C x4
-• FlexSPI
-• CAN x2
-• FlexIO x2
+* eMMC 4.5/SD 3.0 x2
+* SPI x4
+* Ethernet
+* UART x8
+* I2C x4
+* FlexSPI
+* CAN x2
+* FlexIO x2
 
 **Price**
-* [$ 15.33](https://www.findchips.com/search/MIMXRT1051DVJ6B?gclid=CjwKCAiA9aKQBhBREiwAyGP5lYlV23Y62b1JUdVyx-y-6v8XvtyLvNt3le9zmm-FcZBUaW5rIvIndxoCJ9YQAvD_BwE)
+* [$ 15.33](https://www.digikey.co.th/en/products/detail/nxp-usa-inc/MIMXRT1051DVJ6B/9607562?utm_campaign=buynow&utm_medium=aggregator&WT.z_cid=ref_findchips_standard&utm_source=findchips)
 ## 4. ESP32-S3-WROOM-2-N16R8V (ESP32)
 ![ESP32-S3-WROOM-2-N16R8V](https://5.imimg.com/data5/GH/ON/VZ/SELLER-5015976/esp32-wroom-32-500x500.jpg)
 ## Features
 **Memory**
 * 384 KB ROM
-• 512 KB SRAM
-• 16 KB SRAM in RTC
-• 8 MB PSRAM
+* 512 KB SRAM
+* 16 KB SRAM in RTC
+* 8 MB PSRAM
 
 
 **Speed**
@@ -116,20 +116,19 @@ controller
 
  
 **Wi-Fi**
-• 802.11 b/g/n
-• Bit rate: 802.11n up to 150 Mbps
-• A-MPDU and A-MSDU aggregation
-• 0.4 µs guard interval support
-• Center frequency range of operating channel:
-2412-2484 MHz
+* 802.11 b/g/n
+* Bit rate: 802.11n up to 150 Mbps
+* A-MPDU and A-MSDU aggregation
+* 0.4 µs guard interval support
+* Center frequency range of operating channel:2412-2484 MHz
 
 **Bluetooth**
-• Bluetooth LE: Bluetooth 5, Bluetooth mesh
-• 2 Mbps PHY
-• Long range mode
-• Advertising extensions
-• Multiple advertisement sets
-• Channel selection algorithm #2
+* Bluetooth LE: Bluetooth 5, Bluetooth mesh
+* 2 Mbps PHY
+* Long range mode
+* Advertising extensions
+* Multiple advertisement sets
+* Channel selection algorithm #2
 
 **Price**
 * [$ 6.99](https://www.mouser.com/ProductDetail/Espressif-Systems/ESP32-S3-WROOM-2-N16R8V?qs=sGAEpiMZZMuiGk1Q5GPiHB4SFnhKDXK%2FQkAaBxaKmJI%3D)
