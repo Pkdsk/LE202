@@ -10,12 +10,9 @@
     * 64 - bit
 4. เปิด command prompt หรือ cmd ทำการรันคำสั่งต่อไปนี้ตามลำดับ
     * pip  เพื่อเป็นการตรวจสอบว่าโปรแกรม Python พร้อมใช้งาน
-    * pip -U platformio เพื่อทำการติดตั้ง Platformio
+    * pip install -U platformio เพื่อทำการติดตั้ง Platformio
 6. ทำการติดตั้ง [Nodejs](https://nodejs.org/en/download/)
-7. เปิด command prompt หรือ cmd เข้าไปโฟลเดอร์ iotset1 ทำการรันคำสั่งต่อไปนี้ตามลำดับ
-   * cd iotset1
-   * examples ทำการตรวจสอบโฟลเดอร์ตัวอย่าง ex01,ex02,ex03 เป็นต้น
-   
+7. เข้าไปโฟลเดอร์ iotset1 ทำการตรวจสอบโฟลเดอร์ Example  
    
 **สามารถศึกษาจากคลิปวิดิโอที่แนบมาเพื่อความเข้าใจที่เพิ่มขึ้น** [วิธีการติดตั้ง Platformio](https://www.youtube.com/watch?v=9aF0upI9Gic)
 
