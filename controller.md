@@ -1,5 +1,5 @@
 # Microcontroller 
-## 1. SiFive Freedom U540 SoC (RISC-V)
+## 1. SiFive Freedom U540 SoC (FU540)
 ![SiFive Freedom U540 SoC](https://d2pn104n81t9m2.cloudfront.net/assets/images/products/hifive-unleashed/unleashed-angle-photo.jpg)
 ## Features
 **Memory**
