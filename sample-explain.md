@@ -328,3 +328,5 @@ Platformio.ini	การทดลองที่ 6
 	;monitor_port = COM3	#ใช้พอร์ท COM3
 	monitor_speed = 115200	#Monitor มีคววามเร็ว 115200
 
+
+**สามารถดูสรุปเนื้อหาได้ที่ [คำอธิบายโปรแกรมการทดลอง](https://drive.google.com/file/d/18o74q5jjuSD9sV4rowFcJ78Z34yzqrYC/view?usp=drivesdk)**
