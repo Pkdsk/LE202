@@ -14,6 +14,6 @@
 6. ทำการติดตั้ง [Nodejs](https://nodejs.org/en/download/)
 7. เข้าไปโฟลเดอร์ iotset1 ทำการตรวจสอบโฟลเดอร์ Example  
    
-**สามารถศึกษาจากคลิปวิดิโอที่แนบมาเพื่อความเข้าใจที่เพิ่มขึ้น** [วิธีการติดตั้ง Platformio](https://www.youtube.com/watch?v=9aF0upI9Gic)
+**สามารถศึกษาจากคลิปวิดิโอที่แนบมาเพื่อความเข้าใจที่เพิ่มขึ้น** [วิธีการติดตั้ง Platformio](https://drive.google.com/file/d/1aiWGE83rXcnkT4D8y2TZ0yxTsqRTCG9g/view?usp=drivesdk)
 
 
