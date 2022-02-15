@@ -155,4 +155,5 @@ controller
 * [$ 14.20](https://www.seeedstudio.com/Sipeed-MAix-BiT-for-RISC-V-AI-IoT-p-2872.html#:~:text=Sipeed%20newly%20provide%20breadboard%2Dfriendly,LCD)
 
 
-* สามารถดูสรุปเนื้อหาได้ที่ [Microcontroller](https://drive.google.com/file/d/18e1L2eYpCNWlcNxQknk80TcMg8R2brlP/view?usp=drivesdk)
+
+**สามารถดูสรุปเนื้อหาได้ที่ [Microcontroller](https://drive.google.com/file/d/18e1L2eYpCNWlcNxQknk80TcMg8R2brlP/view?usp=drivesdk)**
