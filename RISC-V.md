@@ -1,5 +1,5 @@
 # หลักการทำงานของ Software EmulsiV
-![microcontroller](https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/276998334_2777021255925597_5110750505850454457_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=9nnJe_9Zym0AX9EBV7b&_nc_ht=scontent.fbkk28-1.fna&oh=00_AT-bOCpCLcCIDjQA6PHkWjjZjiZbqzHarQ2ulfRqiMyPJw&oe=62454208)
+![microcontroller](https://cdn.xingosoftware.com/elektor/images/fetch/dpr_1,w_720/https%3A%2F%2Fwww.elektormagazine.com%2Fassets%2Fupload%2Fimages%2F42%2F20210405185330_210223-002-94-ORIGINAL-ELK026---ESEO-RISC-V-web-based-simulator.png)
 
 #### ภาพแสดงส่วนประกอบใน microcontroller ประกอบไปด้วย 2 ส่วนหลักๆ คือ
 1. ด้านบน เหนือแถบขึ้นมา
